@@ -1,0 +1,11 @@
+{
+  "name": "exec-thunk",
+  "description": "Thunkified version of exec to use with coroutines, preserves stderr",
+  "version": "0.1.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint-bootstrap": "Skycatch/eslint-bootstrap"
+  },
+  "main": "lib/exec.js"
+}
